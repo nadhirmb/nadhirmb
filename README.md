@@ -28,11 +28,10 @@
  
  **My Courses Notes**
   
- 1.   [data structures](https://github.com/nadhirmb/Data-Structures-and-Algorithms)
- 2.   [operating systems](https://github.com/nadhirmb/Operating-Systems)
- 3.   [digital signal processing](https://github.com/nadhirmb/Digital-Signal-Processing)
- 4.   database management system
- 5.   object oriented programming
+ 1.   [Data structures](https://github.com/nadhirmb/Data-Structures-and-Algorithms)
+ 2.   [Operating systems](https://github.com/nadhirmb/Operating-Systems)
+ 3.   [Digital signal processing](https://github.com/nadhirmb/Digital-Signal-Processing)
+ 4.   [Oject oriented programming](https://github.com/nadhirmb/Object-Oriented-Programming)
  
 **Projects**
   1. [portfolio website](https://github.com/nadhirmb/Portfolio)
