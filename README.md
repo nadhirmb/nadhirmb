@@ -31,7 +31,8 @@
  1.   [Data structures](https://github.com/nadhirmb/Data-Structures-and-Algorithms)
  2.   [Operating systems](https://github.com/nadhirmb/Operating-Systems)
  3.   [Digital signal processing](https://github.com/nadhirmb/Digital-Signal-Processing)
- 4.   [Oject oriented programming](https://github.com/nadhirmb/Object-Oriented-Programming)
+ 4.   [Object oriented programming](https://github.com/nadhirmb/Object-Oriented-Programming)
+ 5.   [Python](https://github.com/nadhirmb/Python)
  
 **Projects**
   1. [portfolio website](https://github.com/nadhirmb/Portfolio)
